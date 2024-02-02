@@ -45,5 +45,15 @@ if you want to stage specefic files, you can replace'.'with the file names.
 mislenius:- 
 
 * to check if the file is add to the git repo or not:
-   (command:- git status
+   (command:- git status)
+
+* to create a new branch 
+   (command:- git branch <branch name>
+ 
+* to get in the new branch
+   (command:-git checkout <branch name>
+
+* to mearge the branches
+   (command:- git merge <branch name>
+note: you need to open the branch you want to merge into.
 
