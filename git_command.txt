@@ -58,6 +58,9 @@ mislenius:-
    (git reset --soft<log code>
 * to undo a commit on a server 
   (git revert <log code>
+* to change the name of the file 
+  (command:- mv <old file name> <new filename> )
+
 
 # this is a step bay step learning about branching in git 
  
@@ -77,3 +80,5 @@ note: you need to open the branch you want to merge into.
    (git branch -D <branch name>)
 *to delete a branch from sever
    (git push origin --delete <branch name>)
+////// this are some git commands for branches in git /////////
+ 
