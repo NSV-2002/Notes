@@ -1,0 +1,31 @@
+Author:Nilesh vedpathak
+
+#this is the complete step by step guide for working with git.
+
+* step 1: create a directory in your local system 
+          (command :- mkdir test ) {mkdir}=make directory. {test}=directory name.
+
+* step 2: open the directory 
+          (command:- cd test) {cd}= change directory. 
+
+* step 3: initiate the directory to git.
+          (command :- $git init)
+
+* step 4: now create the file you want 
+          ( command :- vim text.txt) {vim}=virtual text editor.
+
+* step 5: now add the file to git repository
+          (command :- $git add text.txt)
+
+* step 6: we need to connect our local directory to the remote git repository
+          (command :-git remote add origin https://github.com/<username>/<repo>.git)
+
+* step 7: now we need to commit our file to the remote repository
+          (command:- git commit -m "Initial commit")
+
+* step 8 pust your changes to the git hub repository
+          (command:- git push -u origin master)
+
+//////// In this way you can create a directory and add it to your git hub account ////////
+
+
