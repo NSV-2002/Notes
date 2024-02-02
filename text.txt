@@ -29,3 +29,21 @@ Author:Nilesh vedpathak
 //////// In this way you can create a directory and add it to your git hub account ////////
 
 #this is the step by step guide to pull and push the files.
+
+* step 1:stage your changes:
+        (command:- git add .)
+if you want to stage specefic files, you can replace'.'with the file names.
+
+* step 2: commit your changes:
+        (command:- git commit -m "your commit message"
+ 
+*stpe 3: push your changes to the git hub account:
+        (command:- git push origin master)
+
+//////// In this way you can push your changes to the githum repository///////.
+
+mislenius:- 
+
+* to check if the file is add to the git repo or not:
+   (command:- git status
+
