@@ -1,0 +1,17 @@
+Author:- Nilesh vedpathak
+
+#this is the key point while is learn css (cascading style sheet)
+
+*selectors:-
+             css selectors allow you to select and style html element.
+* css selectors allows youto select html elements based on their id, class, type,attributes etc.
+
+# the most common types of selector
+
+1.element selector:
+2.id selector
+3.class selector
+4. universal selector
+5. group selector
+
+#
