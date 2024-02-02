@@ -46,12 +46,6 @@ mislenius:-
 
 * to check if the file is add to the git repo or not:
    (command:- git status)
-
-
- 
-
-
-
 * to open a file in notepad 
    (command:- notepad <filename>
 * TO checks all the commits
@@ -79,4 +73,7 @@ note: you need to open the branch you want to merge into.
 
 * to view the branches is the repository
    (git branch -v)
-
+*to delete a branch form local system
+   (git branch -D <branch name>)
+*to delete a branch from sever
+   (git push origin --delete <branch name>)
