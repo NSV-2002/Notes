@@ -6,7 +6,7 @@ Welcome to my notes repository! This repository contains my personal notes on va
 
 - [Introduction](#introduction)
 - [Organization](#organization)
-- [Notes](#notes)
+- [Topics](#Topics)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -18,7 +18,7 @@ In this repository, you'll find my collection of notes that I've taken while lea
 
 The repository is organized into different folders based on the subjects or topics of the notes. Each folder may contain subfolders for better categorization, and each note is typically stored as a markdown (.md) file.
 
-## topics
+## Topics
 - CSS
 - GIT COMMAND
 - C NOTES
