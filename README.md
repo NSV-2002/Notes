@@ -19,6 +19,6 @@ In this repository, you'll find my collection of notes that I've taken while lea
 The repository is organized into different folders based on the subjects or topics of the notes. Each folder may contain subfolders for better categorization, and each note is typically stored as a markdown (.md) file.
 
 ## Topics
-- CSS
-- GIT COMMAND
+- [CSS](https://github.com/NSV-2002/notes/blob/master/css.txt)
+- [GIT COMMANDS](https://github.com/NSV-2002/notes/blob/master/git_command.txt)
 - C NOTES
